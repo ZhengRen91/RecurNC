@@ -547,10 +547,10 @@ if __name__ == '__main__':
     # csv2shp(csv_file, shp_file)
 
     # NCGen()
-    # LivingGen()
+    LivingGen()
     # graphviz()
     # LivingCal()
     # createTree()
     # extactDecomp()
-    fitpowerlaw()
+    # fitpowerlaw()
     print(datetime.datetime.now())
